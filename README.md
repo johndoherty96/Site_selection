@@ -8,13 +8,16 @@ In this project, we focus on the lucrative agricultural industry of grape cultiv
 
 - <b>ArcGIS Pro</b>
 
-<h2>Program walk-through:</h2>
+<h2>Map:</h2>
 
 <p align="center">
-Launch the utility: <br/>
+Optimizing Vineyard Locations: <br/>
 <img src="https://imgur.com/3XqoF0s.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
+
+<h2>Citations and Acknowledgment:</h2>
+- <b>All data for this project was provided by Penn State University</b>
 
 <!--
  ```diff
